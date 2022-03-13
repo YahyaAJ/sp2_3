@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(money1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+
+    color: #fff;
+}
+p{
+    font-family: 'Akaya Telivigala', cursive;
+    margin: 20px;
+}
+img{
+    width: 600px;
+    margin-left: 20px;
+}
